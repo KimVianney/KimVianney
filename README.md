@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="https://twitter.com/low_key_nerd__">
+    <a href="https://www.linkedin.com/in/vianney-kimuri-30389618a/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
     <!-- <img src="https://komarev.com/ghpvc/?username=KimVianney&style=flat-square&color=blue" alt=""/> -->
@@ -20,7 +20,7 @@
 </h3>
 
 - :computer: Currently studying software engineering at Makerere University.
-- :tools: My primary language is **Python**. I also use Javascript and Java.
+- :briefcase: My primary language is **Python**. I also use Javascript and Java.
 - :handshake: I am open to collaborating on projects that are Python based.
 - :envelope: You can contact me at [kimvianney6@gmail.com](mailto://kimvianney6@gmail.com)
 
