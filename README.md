@@ -6,7 +6,7 @@
     <a href="https://twitter.com/low_key_nerd__">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=KimVianney&style=flat-square&color=blue" alt=""/>
+    <!-- <img src="https://komarev.com/ghpvc/?username=KimVianney&style=flat-square&color=blue" alt=""/> -->
 </div> 
  
 <div id="views" align="center">
