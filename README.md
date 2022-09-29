@@ -23,6 +23,7 @@
 - :briefcase: My primary language is **Python**. I also use Javascript and Java.
 - :handshake: I am open to collaborating on projects that are Python based.
 - :envelope: You can contact me at [kimvianney6@gmail.com](mailto://kimvianney6@gmail.com)
+- :web: Checkout my portfolio [here](https://vianneyk.super.site)
 
 ### Interests
 
